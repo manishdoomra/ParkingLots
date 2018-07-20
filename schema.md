@@ -13,3 +13,11 @@
 | 2             | MH14-XXXX2    |2      | 2             | 
 
 
+## Slots
+
+| SurrogateId   | VehicleType   | VehicleId  | Status   | ReservationCategory  |
+| ------------- |:-------------:| -----:     | :--------: | :------------------:  |
+| 1             | 4             |1           | Occupied | Unreserved           |
+| 2             | 2             |null            | Unoccupied | Executive            |
+
+
